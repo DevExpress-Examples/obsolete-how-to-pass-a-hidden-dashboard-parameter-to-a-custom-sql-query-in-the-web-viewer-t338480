@@ -5,6 +5,9 @@
 * [WebForm1.aspx.cs](./CS/Dashboard_CustomParameters_Web/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/Dashboard_CustomParameters_Web/WebForm1.aspx.vb))
 <!-- default file list end -->
 # How to pass a hidden dashboard parameter to a custom SQL query in the Web Viewer
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t338480)**
+<!-- run online end -->
 
 
 <p><strong>Note:</strong> <em>Starting with v17.1, we recommend using the <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16976.aspx">ASPxDashboard control</a> or a corresponding <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16977.aspx">ASP.NET MVC extension</a> to display dashboards within web applications.</em><br><br>The following example shows how to filter a custom SQL query by changing a parameter value in the <a href="https://documentation.devexpress.com/#Dashboard/DevExpressDashboardWebASPxDashboardViewer_CustomParameterstopic">ASPxDashboardViewer.CustomParameters</a> event handler.</p>
