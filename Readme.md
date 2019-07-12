@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to pass a hidden dashboard parameter to a custom SQL query in the Web Viewer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t338480)**
+**[[Run Online]](https://codecentral.devexpress.com/t338480/)**
 <!-- run online end -->
 
 
